@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @cadencepodaima
+/src/backend/database.py      @cadencepodaima
+/src/backend/routers/auth.py  @cadencepodaima
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @cadencepodaima
